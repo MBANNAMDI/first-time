@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+
+{background: radial-gradient(BLUe,YELLOW,green);
+width:1000px;
+height:1500px;
+overflow: hidden;
+	position: relative;
+	
+}
+nav{text-align: right;
+position: sticky;
+margin-top: 30px;
+margin-left: 20PX;
+margin-right: 20px;
+}
+nav ul li{list-style: none;
+text-align: right;
+text-decoration: none;
+display: inline-block;
+word-spacing: 10px;
+	margin-right: 10px;
+}
+nav ul li a{display: inline-block;
+letter-spacing: 2px;
+font-weight: bold; 
+text-decoration: none;
+color: black;
+}
+ nav ul a:hover{ color: azure;
+	 
+}
+header{background:linear-gradient(to left,red,yellow,white);
+	width: 1140px;
+height: 70px;
+text-align: center;
+	font-size: 40px
+}
+.sticky{background:linear-gradient(to left,red,yellow,white); 
+height: 30px;
+	width: 1140px
+}
+.all{background:linear-gradient(to left,black,white)
+}
+.max{text-align: center;
+}
+.report{margin-left: 10px;
+	text-align: left;
+}
+.story1{text-align: center;
+margin-top: -210px;
+float: right;
+margin-right: 17px;
+}
+.story2{margin-left: 10px
+}
+.table{text-align: center;
+margin-left: 15px;
+	margin-right:10px 
+}
+.story3{text-align: center;
+}
+.trade{text-align: center;
+}
+button {background:#ED2C09;
+}
+.me{text-align:right;
+margin-left:15px;
+	margin-right: 10px;
+	margin-bottom: 15px
+}
+.trade1{background:#CC7427;
+	width:240PX;
+	height:330PX;
+text-align: left;
+margin-left:40px;
+}
+.trade2{background:#CC7427;
+	width:240PX;
+	height:330PX;
+	text-align: center;
+	margin-left: 330px;
+	margin-top: -347px;
+}
+.trade3{background:#CC7427;
+	width:240PX;
+	height:330PX;
+	text-align: right;
+	margin-left:620px ;
+	margin-top: -347px;
+}

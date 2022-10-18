@@ -1,0 +1,51 @@
+.main {
+  height: 2000px;
+  width: 1000px;
+  background: darkgray;
+  margin-left: 50px;
+}
+
+.head {
+
+  margin-right: 30px;
+  position: sticky;
+}
+
+header {
+  text-align: left;
+  margin-left: 9px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 50px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+nav ul {
+  text-align: right;
+  font-style: normal;
+  word-spacing: 20px;
+}
+
+nav ul li {
+  display: inline;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+nav ul li a {
+  text-decoration: none;
+  word-spacing: 20px;
+  color: black;
+}
+
+nav ul li a:hover {
+  color: wheat;
+  font-style: italic;
+}
+.back{
+  background: url("img/dog6.jpg");
+  width:200px;
+  height:500px;
+  background-repeat:no-repeat ;
+  ba
+
+}
